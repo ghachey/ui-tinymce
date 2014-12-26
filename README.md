@@ -1,3 +1,11 @@
+. Important Note
+
+This is simply a temporary fork until the official ui-tinymce
+adjust their bower.json file to use the official new tinymce bower
+package. There are already pending PR to address this so I won't
+bother submitting this one. This is necessary to improve my own build
+work flow.
+
 # ui-tinymce directive [![Build Status](https://travis-ci.org/angular-ui/ui-tinymce.png)](https://travis-ci.org/angular-ui/ui-tinymce)
 
 This directive allows you to add a TinyMCE editor to your form elements.
